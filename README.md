@@ -1,3 +1,7 @@
+# Automatic Token Set On Postman Environments Variable 
+
+[Automatic Token Set On Postman Environments Variable](https://www.youtube.com/watch?v=aB7y87G2DKM&t=1s)
+
 #  Section 2: Creating REST API requests with Postman
 
 -  [Postman landscape PDF](https://github.com/bappasahabapi/postman-api-testing/blob/main/Postman_Landscape.pdf)
